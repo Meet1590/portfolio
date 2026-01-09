@@ -20,7 +20,7 @@ const CONFIG = {
         limit: 4, // How many projects to display.
         exclude: {
           forks: true, // Forked projects will not be displayed if set to true.
-          projects: ['Meet1590/my-project', 'Meet1590/trading-bot', 'Meet1590/Portfolio', 'Meet1590/binary-signal-generator', 'Meet1590/Algorithms'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: ['Meet1590/portfolio-archive','Meet1590/my-project', 'Meet1590/trading-bot', 'Meet1590/Portfolio', 'Meet1590/binary-signal-generator', 'Meet1590/Algorithms'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
       manual: {
@@ -72,7 +72,7 @@ const CONFIG = {
     telegram: '',
     website: '',
     phone: '',
-    email: 'meet3670patel@gmail.com',
+    email: 'meet.kp.work@gmail.com',
   },
   resume: {
     fileUrl: //update this with your resume file url
