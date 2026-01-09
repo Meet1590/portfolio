@@ -72,7 +72,7 @@ const CONFIG = {
     telegram: '',
     website: '',
     phone: '',
-    email: 'meet3670patel@gmail.com',
+    email: 'meet.kp.work@gmail.com',
   },
   resume: {
     fileUrl: //update this with your resume file url
